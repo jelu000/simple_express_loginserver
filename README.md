@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with https://expressjs.com/. I use as a backend server for to test my React simple_react_cilent that also can be pulled from my github account.
 
